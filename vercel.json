@@ -25,7 +25,7 @@
       ]
     },
     {
-      "source": "/Three.js",
+      "source": "/(Three.js|favicon.(.*)|apple-touch-icon.png|logo(.*).png)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -35,4 +35,3 @@
     }
   ]
 }
-
